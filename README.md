@@ -13,17 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-I'm
-<!-- language: lang-none -->
-           _ _                 
-     /\   | (_)                
-    /  \  | |_ ___  ___  _ __  
-   / /\ \ | | / __|/ _ \| '_ \ 
-  / ____ \| | \__ \ (_) | | | |
- /_/    \_\_|_|___/\___/|_| |_|
-                               
-                               
+-->                       
 
 
