@@ -1,6 +1,6 @@
-### Hi, I'm Alison 👋
+### Hi, I'm Alison ✨
 
-I'm an engineering manager and design engineering lead on [IBM's Carbon Design System](https://carbondesignsystem.com/). I'm a CSS nerd who loves working in the space where **design meets code**. I lead teams that build our component library, prototype new ideas, and help scale design systems across the business.
+I'm an engineering manager and design engineering lead on [IBM's Carbon Design System](https://carbondesignsystem.com/). I'm a CSS nerd who loves working in the space where **design meets code**. Currently leading teams building our component library, prototyping new ideas, and helping scale the design system across the business.
 
 🌐 Member of the [W3C CSS Working Group](https://www.w3.org/groups/wg/css/).
 
